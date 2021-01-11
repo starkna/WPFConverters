@@ -1,6 +1,6 @@
 namespace Kent.Boogaart.Converters.Expressions.Nodes
 {
-    using Kent.Boogaart.HelperTrinity;
+    using HelperTrinity;
     using System.Diagnostics;
 
     // node to hold a reference to a variable

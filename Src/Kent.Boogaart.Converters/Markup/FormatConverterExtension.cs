@@ -2,7 +2,7 @@
 
 namespace Kent.Boogaart.Converters.Markup
 {
-    using Kent.Boogaart.HelperTrinity;
+    using HelperTrinity;
     using System;
     using System.Windows.Markup;
 

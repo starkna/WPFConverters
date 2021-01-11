@@ -1,7 +1,7 @@
 namespace Kent.Boogaart.Converters
 {
-    using Kent.Boogaart.HelperTrinity;
-    using Kent.Boogaart.HelperTrinity.Extensions;
+    using HelperTrinity;
+    using HelperTrinity;
     using System;
     using System.Globalization;
     using System.Windows;

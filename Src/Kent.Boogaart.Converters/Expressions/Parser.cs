@@ -1,7 +1,7 @@
 namespace Kent.Boogaart.Converters.Expressions
 {
     using Kent.Boogaart.Converters.Expressions.Nodes;
-    using Kent.Boogaart.HelperTrinity;
+    using HelperTrinity;
     using System;
     using System.Diagnostics;
 

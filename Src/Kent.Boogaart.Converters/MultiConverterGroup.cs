@@ -2,7 +2,7 @@
 
 namespace Kent.Boogaart.Converters
 {
-    using Kent.Boogaart.HelperTrinity;
+    using HelperTrinity;
     using System;
     using System.Collections.ObjectModel;
     using System.Diagnostics;
