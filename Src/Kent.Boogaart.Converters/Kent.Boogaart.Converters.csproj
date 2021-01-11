@@ -11,7 +11,7 @@
     <UseWPF>true</UseWPF>
     <PackageId>Kent.Boogaart.Converters.Net5</PackageId>
     <PackageProjectUrl>https://github.com/starkna/WPFConverters</PackageProjectUrl>
-    <PackageLicenseExpression>MS-PL License</PackageLicenseExpression>
+    <PackageLicenseExpression></PackageLicenseExpression>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugType>full</DebugType>
