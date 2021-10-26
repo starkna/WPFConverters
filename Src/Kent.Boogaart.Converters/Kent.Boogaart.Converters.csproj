@@ -20,8 +20,14 @@
     <DebugType>pdbonly</DebugType>
   </PropertyGroup>
   <ItemGroup>
+    <None Remove="Properties\ExceptionHelper.xml" />
+  </ItemGroup>
+  <ItemGroup>
     <Compile Include="..\AssemblyInfoCommon.cs" Link="Properties\AssemblyInfoCommon.cs" />
     <Compile Include="..\AssemblyInfoCommonSecurity.cs" Link="Properties\AssemblyInfoCommonSecurity.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\ExceptionHelper.xml" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="HelperTrinity.Net5" Version="1.0.0" />
